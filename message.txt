@@ -3,6 +3,6 @@
 ░█──░█ ─█▀▀█ ░█▀▀█ ░█▄─░█ ▀█▀ ░█▄─░█ ░█▀▀█
 ░█░█░█ ░█▄▄█ ░█▄▄▀ ░█░█░█ ░█─ ░█░█░█ ░█─▄▄
 ░█▄▀▄█ ░█─░█ ░█─░█ ░█──▀█ ▄█▄ ░█──▀█ ░█▄▄█
-This plugin is not enabled for your server IP
+plugin_name plugin is not enabled for your server IP ( server_ip )
 Please contact the plugin developer on discord: Pushkar#0609
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
