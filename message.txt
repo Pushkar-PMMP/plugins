@@ -1,6 +1,7 @@
-\n
-░█──░█ ─█▀▀█ ░█▀▀█ ░█▄─░█ ▀█▀ ░█▄─░█ ░█▀▀█\n
-░█░█░█ ░█▄▄█ ░█▄▄▀ ░█░█░█ ░█─ ░█░█░█ ░█─▄▄\n
-░█▄▀▄█ ░█─░█ ░█─░█ ░█──▀█ ▄█▄ ░█──▀█ ░█▄▄█\n
-This plugin is not enabled for your server IP\n
-Please contact the plugin developer on discord: Pushkar#0609\n
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+░█──░█ ─█▀▀█ ░█▀▀█ ░█▄─░█ ▀█▀ ░█▄─░█ ░█▀▀█
+░█░█░█ ░█▄▄█ ░█▄▄▀ ░█░█░█ ░█─ ░█░█░█ ░█─▄▄
+░█▄▀▄█ ░█─░█ ░█─░█ ░█──▀█ ▄█▄ ░█──▀█ ░█▄▄█
+This plugin is not enabled for your server IP
+Please contact the plugin developer on discord: Pushkar#0609
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
